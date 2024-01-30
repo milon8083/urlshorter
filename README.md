@@ -31,7 +31,7 @@ Short-URL is a powerful web application built on the Laravel framework, designed
 <b>Navigate to the Admin Section:</b> Once logged in, navigate to the admin section using the provided navigation menu or URL.<br>
 <b>Admin Dashboard:</b> Upon accessing the admin panel, you will be greeted with an overview dashboard displaying relevant metrics and data.<br>
 
-## Here the Project Description 
+## Description the Project 
 Welcome to the Laravel 10 Short-URL application, leveraging Laravel Breeze, Bootstrap, and PHP 8.2. This application facilitates URL shortening with advanced features built on Laravel's powerful framework.
 
 ## Key Features:
